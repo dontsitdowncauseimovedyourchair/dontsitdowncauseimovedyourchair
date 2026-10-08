@@ -1,12 +1,27 @@
+Hi all! I'm Alejandro González, I do Robotics, Full-Stack and Embedded Systems, I'm exploring everything the tech world has to offer!  
+
 # 💫 About Me:
-Studying Robotics and Intelligent Systems Engineering @ Tec de Monterrey.<br>Working on iOS development, full-stack development, embedded systems and wherever my curiosity takes me.<br>
+Studying Robotics and Intelligent Systems Engineering @ Tec de Monterrey. Learnt full-stack at incredibly-crafted sites like Boot.dev, The Odin Project, and Hyperskill as well as iOS development at Hacking with Swift. I commit not only code but also my life into lifelong learning.  
 
+I primarily work on embedded projects that combine my (in-the-making) full-stack knowledge as well my (also in-the-making) embedded and robotics projects. I'm specially into FPGAs and Chip Design and currently learning all about them at University alongside Robotics!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alejandrogcolin/) 
+I've always been fascinated by Science Fiction, and with AI currently having broken out of science fiction, I'm diving into Neural Networks, Deep Learning, Machine Learning, Computer Vision, Autonomous Navigation, Edge AI and of course Robotics and how it enables AI to interact with the world!
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+Working on embedded AI software for a Rover headed to the University Rover Challenge at Quantum Robotics, an engineering team from Tecnológico de Monterrey.
+
+## 📚 Books:
+Currently Reading:
+
+- Deep Learning with Python by François Chollet
+- Computer Vision: Algorithms and Applications by Richard Szeliski
+- The classic, Designing Data-Intensive Applications by Martin Kleppmann
+
+## 🎭 Other interests
+
+- I love dancing, I'd say that at University I'm majoring in Robotics Engineering with a minor in Street Dance. 
+- Swimming
+- Gaming
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dontsitdowncauseimovedyourchair&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=dontsitdowncauseimovedyourchair&theme=dark&hide_border=false)<br/>
