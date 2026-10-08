@@ -9,6 +9,9 @@ I've always been fascinated by Science Fiction, and with AI currently having bro
 
 Working on embedded AI software for a Rover headed to the University Rover Challenge at Quantum Robotics, an engineering team from Tecnológico de Monterrey.
 
+I got into programming when a friend showed me her work on minecraft modding and I decided to start learning with Java to make videogames. I really enjoy science fiction novels and decided to dive into the Robotics and Intelligent Systems degree at Tecnológico de Monterrey to one day make such technologies a reality. I made an FPGA videogame fully coded in VHDL and it runs without a CPU which was both a dream come true for me and a fascinating dive into hardware.
+I also work on projects involving embedded systems, electric vehicles,, full-stack and iOS.
+
 ## 📚 Books:
 Currently Reading:
 
