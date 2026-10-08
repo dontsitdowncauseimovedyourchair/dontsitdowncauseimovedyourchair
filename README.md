@@ -10,7 +10,7 @@ I've always been fascinated by Science Fiction, and with AI currently having bro
 Working on embedded AI software for a Rover headed to the University Rover Challenge at Quantum Robotics, an engineering team from Tecnológico de Monterrey.
 
 I got into programming when a friend showed me her work on minecraft modding and I decided to start learning with Java to make videogames. I really enjoy science fiction novels and decided to dive into the Robotics and Intelligent Systems degree at Tecnológico de Monterrey to one day make such technologies a reality. I made an FPGA videogame fully coded in VHDL and it runs without a CPU which was both a dream come true for me and a fascinating dive into hardware.
-I also work on projects involving embedded systems, electric vehicles,, full-stack and iOS.
+I also work on projects involving embedded systems, electric vehicles, full-stack and iOS.
 
 ## 📚 Books:
 Currently Reading:
@@ -24,10 +24,3 @@ Currently Reading:
 - I love dancing, I'd say that at University I'm majoring in Robotics Engineering with a minor in Street Dance. 
 - Swimming
 - Gaming
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dontsitdowncauseimovedyourchair&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=dontsitdowncauseimovedyourchair&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dontsitdowncauseimovedyourchair&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
